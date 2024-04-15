@@ -1,4 +1,4 @@
-##Information Hub: 
+**Information Hub: **
 
 central hub for information about the Zoin cryptocurrency, including its features, technology, development team, roadmap, and community resources. This can help educate potential users and investors about the project.
 ##Brand Establishment: 
