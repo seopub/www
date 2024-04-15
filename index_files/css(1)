@@ -1,0 +1,92 @@
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Light'), local('Nunito-Light'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXW3I6Li01BKofAnsSUbuvOSTs.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Light'), local('Nunito-Light'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXW3I6Li01BKofAnsSUb-vOSTs.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Light'), local('Nunito-Light'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXW3I6Li01BKofAnsSUYevO.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Regular'), local('Nunito-Regular'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXV3I6Li01BKofIOuaHXso.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Regular'), local('Nunito-Regular'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXV3I6Li01BKofIO-aHXso.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Regular'), local('Nunito-Regular'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXV3I6Li01BKofINeaH.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Bold'), local('Nunito-Bold'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXW3I6Li01BKofAjsOUbuvOSTs.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Bold'), local('Nunito-Bold'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXW3I6Li01BKofAjsOUb-vOSTs.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Bold'), local('Nunito-Bold'), url(https://web.archive.org/web/20190501152355im_/https://fonts.gstatic.com/s/nunito/v10/XRXW3I6Li01BKofAjsOUYevO.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*
+     FILE ARCHIVED ON 15:23:55 May 01, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:46:53 Mar 15, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.071
+  exclusion.robots.policy: 0.06
+  cdx.remote: 0.093
+  esindex: 0.011
+  LoadShardBlock: 122.548 (6)
+  PetaboxLoader3.datanode: 115.131 (7)
+  load_resource: 43.039
+  PetaboxLoader3.resolve: 24.24
+*/
