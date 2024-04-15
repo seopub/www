@@ -1,4 +1,5 @@
 ##Information Hub: 
+
 central hub for information about the Zoin cryptocurrency, including its features, technology, development team, roadmap, and community resources. This can help educate potential users and investors about the project.
 ##Brand Establishment: 
 establish and promote the Zoin brand identity. It can showcase the coin's unique value proposition, mission, and vision, helping to differentiate it from other cryptocurrencies in the market.
