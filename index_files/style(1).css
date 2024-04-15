@@ -1,0 +1,56 @@
+/*
+Theme Name: Zoin Official
+Theme URI: https://official-zoin.org
+Description: This is a custom child theme for Salient
+Author: Julien Ahnou (@onizutaz)
+Author URI: https://julienahnou.me
+Template: salient
+Version: 0.1
+*/
+
+/* ROADMAP SECTION */
+#roadmap .wpb_wrapper.completed {
+	height: 100%;
+	}
+
+#roadmap .wpb_wrapper.completed .divider-wrap {
+	height: 50px;
+}
+
+#roadmap .completed .nectar-progress-bar p {display: none!important;}
+
+#roadmap .completed .nectar-progress-bar {
+	padding-top: 23px;
+	bottom: 0;
+    clear: both;
+    width: 100%;
+	position: absolute;
+	}
+
+/* WALLETS SECTION */
+#wallets .vc_col-sm-2 {height: 280px;}
+
+/* SOCIAL MEDIA */
+#header-outer #social-in-menu .fa-bitcoin:after, .material #slide-out-widget-area.slide-out-from-right .fa-bitcoin:after {content:"\f15a";}
+#header-outer #social-in-menu .fa-paper-plane:after, .material #slide-out-widget-area.slide-out-from-right .fa-paper-plane:after {content:"\f1d8";}
+#header-outer #social-in-menu .fa-comments:after, .material #slide-out-widget-area.slide-out-from-right .fa-comments:after {content:"\f086";}
+#header-outer #social-in-menu .fa-reddit:after, .material #slide-out-widget-area.slide-out-from-right .fa-reddit:after {content:"\f1a1";}
+/*
+     FILE ARCHIVED ON 15:09:13 May 01, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:46:45 Mar 15, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.152
+  exclusion.robots.policy: 0.127
+  cdx.remote: 0.15
+  esindex: 0.012
+  LoadShardBlock: 253.537 (6)
+  PetaboxLoader3.datanode: 266.415 (7)
+  load_resource: 149.033
+  PetaboxLoader3.resolve: 109.926
+*/
